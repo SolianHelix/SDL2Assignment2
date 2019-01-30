@@ -1,0 +1,11 @@
+﻿  GFX_SDL.cpp
+  MyForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  GFX_SDL.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library D:\Dropbox\UNIVERSITY\Year 4 - Computer Science\Semester 2\COMP-3520 Intro to Computer Graphics\Assignments\New Assignment 2\Project1\x64\Debug\Project1.lib and object D:\Dropbox\UNIVERSITY\Year 4 - Computer Science\Semester 2\COMP-3520 Intro to Computer Graphics\Assignments\New Assignment 2\Project1\x64\Debug\Project1.exp
+GFX_SDL.obj : warning LNK4248: unresolved typeref token (01000019) for 'SDL_Window'; image may not run
+GFX_SDL.obj : warning LNK4248: unresolved typeref token (0100001A) for 'SDL_Renderer'; image may not run
+GFX_SDL.obj : warning LNK4248: unresolved typeref token (0100001E) for '_TTF_Font'; image may not run
+GFX_SDL.obj : warning LNK4248: unresolved typeref token (01000020) for 'SDL_Texture'; image may not run
+  Project1.vcxproj -> D:\Dropbox\UNIVERSITY\Year 4 - Computer Science\Semester 2\COMP-3520 Intro to Computer Graphics\Assignments\New Assignment 2\Project1\x64\Debug\Project1.exe
